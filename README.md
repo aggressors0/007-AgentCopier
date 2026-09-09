@@ -1,0 +1,1 @@
+This is a tool for quickly copying data from USB drives. With this program, you can copy data from one USB drive to another. You can copy everything from your plugged-in USB drive to your desktop, a folder of your choice, or any external device with a single click.
