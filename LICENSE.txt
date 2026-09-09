@@ -1,0 +1,25 @@
+                          ⚖️
+
+Additional Conditions for Design and Visual Elements:
+
+The visual design of this project (CSS layout, color scheme, graphics, logos, and interface elements, application logo),
+
+is protected by copyright separately from the software code.
+
+These design elements are not covered under the software license and may not be copied,
+
+distributed, or used in derivative works without permission.
+
+--------------------------------------------------
+                          ⚖️
+
+Tasarım ve Görsel Öğeler İçin Ek Koşullar:
+
+Bu projenin görsel tasarımı (CSS düzeni, renk şeması, grafikler, logolar ve arayüz öğeleri, program logosu), 
+yazılım kodundan ayrı olarak telif hakkı ile korunmaktadır.
+
+Bu tasarım öğeleri, yazılım lisansı kapsamında değildir ve izinsiz olarak kopyalanamaz, 
+dağıtılamaz veya türev çalışmalarda kullanılamaz.
+
+
+
